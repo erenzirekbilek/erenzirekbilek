@@ -48,9 +48,9 @@ Disleksi Erken Teşhis Sistemi, çoklu veri kaynaklarından yararlanarak çocukl
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=erenzirek&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />  
+<img src="https://github-readme-stats.vercel.app/api?username=erenzirekbilek&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenzirek&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenzirekbilek&layout=compact&theme=dark" alt="Top Languages" />
 
 ---
 
