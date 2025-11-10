@@ -1,17 +1,7 @@
 # Hello 👋, I'm Eren Zirekbilek
 ### Software Engineer | Fullstack Developer
 
-Merhaba, ben **Eren Zirekbilek**!  
-
-Yaklaşık 1 yıldır aktif olarak yazılım geliştirme üzerine çalışıyorum. Ağırlıklı olarak React ve .NET Core teknolojileriyle modern, ölçeklenebilir ve kullanıcı odaklı web uygulamaları geliştiriyorum.
-
-Frontend tarafında, React ile component tabanlı yapılar, state yönetimi ve API entegrasyonları üzerine deneyim kazandım. HTML5, CSS3, JavaScript ve jQuery kullanarak performanslı ve responsive kullanıcı arayüzleri tasarladım. Form yönetimi, veri doğrulama ve kullanıcı etkileşimi süreçlerinde en iyi uygulama (best practice) yöntemlerini takip ediyorum.
-
-Backend tarafında, C# / .NET Core kullanarak RESTful API geliştirme, veri alışverişi, iş mantığı ve veritabanı tasarımı konularında deneyim sahibiyim. MySQL ve MSSQL ile güvenli, optimize edilmiş veri akışı sağladım. Ayrıca farklı sistemler ve servislerle entegrasyon gereken durumlarda API ve XML/JSON tabanlı veri yapıları ile çözümler geliştirdim.
-
-Versiyon kontrolü ve ekip çalışması konularında Git’i aktif olarak kullanıyorum; kod kalitesi, düzen ve sürdürülebilirlik benim için öncelikli. Analitik düşünce yapım ve çözüm odaklı yaklaşımım sayesinde proje süreçlerine değer katıyorum.
-
-Yeni teknolojileri öğrenmeye, denemeye ve projelere hızlıca adapte olmaya hevesliyim. Hedefim, mikroservis ve REST API tabanlı modern yazılım mimarilerini daha ileri seviyede kullanarak hem backend hem frontend tarafında yetkinliğimi artırmak. Hibrit veya uzaktan çalışma modellerine uyum sağlayabiliyor ve sürekli yeni projelere açık biriyim.
+I'm a Full Stack Developer specializing in React and .NET Core, crafting efficient, scalable, and user-centric web applications while continuously exploring new technologies and improving backend and frontend expertise.
 ---
 
 ## 💻 Tech Stack & Skills
