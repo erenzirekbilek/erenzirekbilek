@@ -51,6 +51,16 @@ Disleksi Erken Teşhis Sistemi, çoklu veri kaynaklarından yararlanarak çocukl
 
 ---
 
+## 📈 Coding Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erenzirekbilek&theme=tokyonight&hide_border=true&area=true&custom_title=Coding%20Activity)
+
+
+</div>
+---
+
 ## 📫 Contact
 
 - **Email:** [erenzirekbilek@hotmail.com](mailto:erenzirekbilek@hotmail.com)  
