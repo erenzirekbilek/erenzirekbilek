@@ -1,7 +1,7 @@
 # Hello 👋, I'm Eren Zirekbilek
 ### Software Engineer | Fullstack Developer
 
-I'm a Full Stack Developer specializing in React and .NET Core, crafting efficient, scalable, and user-centric web applications while continuously exploring new technologies and improving backend and frontend expertise.
+Full Stack Developer with hands-on experience in React, Spring Boot, Node.js, and Python, delivering scalable web applications and data-driven systems. Passionate about backend architecture, performance, and continuous improvement.
 ---
 
 ## 💻 Tech Stack & Skills
