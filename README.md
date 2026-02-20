@@ -17,7 +17,7 @@ Full Stack Developer with hands-on experience in React, Spring Boot, Node.js, an
 </p>
 
 - **Frontend:** React, HTML5, CSS3, JavaScript, jQuery, Responsive & Accessible UI Design, State Management, API Integration  
-- **Backend:** C# / .NET Core, RESTful API Development, Data Modeling, MySQL, MSSQL, JSON/XML Data Handling  
+- **Backend:** JAVA Spring Boot, RESTful API Development, Data Modeling, MySQL, MSSQL, JSON/XML Data Handling  
 - **Other Tools & Concepts:** Git, Docker, JWT, WebSocket, Clean Code, Unit Testing, Agile Methodologies  
 
 ---
