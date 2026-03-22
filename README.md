@@ -1,7 +1,8 @@
 # Hello 👋, I'm Eren Zirekbilek
 ### Software Engineer | Fullstack Developer
 
-Full Stack Developer with hands-on experience in React, Spring Boot, Node.js, and Python, delivering scalable web applications and data-driven systems. Passionate about backend architecture, performance, and continuous improvement.
+Full Stack Developer with proven experience in React, Spring Boot, Node.js, and Python, focused on delivering scalable web applications and data-driven systems. I combine modern frontend practices with robust backend architecture to build end-to-end solutions that perform reliably under real-world demands. Deeply passionate about system performance, clean code, and continuous improvement, I constantly seek to optimize workflows, reduce technical debt, and elevate development standards across the stack.
+
 ---
 
 ## 💻 Tech Stack & Skills
