@@ -23,11 +23,6 @@ An intelligent platform designed for early dyslexia detection and risk assessmen
 - **Impact:** Empowers educators and therapists with data-driven decision support tools, accelerating early intervention and optimizing manual evaluation processes
 - **Architecture:** Three-tier, open-source, cost-effective — **React.js (Frontend) → Flask/FastAPI (Backend) → TensorFlow/scikit-learn (ML Models)**
 ---
-## 📈 Activity
-<div align="center">
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erenzirekbilek&theme=tokyonight&hide_border=true&area=true&custom_title=Coding%20Activity)
-</div>
----
 ## 📫 Contact
 - **Email:** [erenzirekbilek@hotmail.com](mailto:erenzirekbilek@hotmail.com)  
 - **LinkedIn:** [linkedin.com/in/erenzirekbilek](https://linkedin.com/in/erenzirekbilek)  
