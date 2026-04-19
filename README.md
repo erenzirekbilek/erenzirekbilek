@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eren%20Zirekbilek&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D4FF&height=200&section=header&text=Eren%20Zirekbilek&fontSize=80&fontAlignY=35&animation=scaleIn&fontColor=ffffff" alt="Header" />
 </div>
 ---
 
