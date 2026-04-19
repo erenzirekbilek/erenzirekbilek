@@ -49,14 +49,6 @@ Committed to writing maintainable code, continuous learning, and delivering real
 
 <br>
 
-## 📈 Coding Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erenzirekbilek&theme=tokyonight&hide_border=true&area=true&custom_title=Coding%20Activity)
-
-</div>
-
 ---
 
 ## 🏆 Featured Project
