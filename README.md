@@ -32,17 +32,9 @@ Committed to writing maintainable code, continuous learning, and delivering real
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erenzirekbilek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics&ring=5BCDEC&fire=5BCDEC)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erenzirekbilek&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erenzirekbilek&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC)
-
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=erenzirekbilek&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true)
-
-</div>
-
+![erenzirekbilek's Stats](https://github-readme-stats.vercel.app/api?username=erenzirekbilek&theme=merko&show_icons=true&hide_border=false&count_private=true)
+![erenzirekbilek's Streak](https://github-readme-streak-stats.herokuapp.com/?user=erenzirekbilek&theme=merko&hide_border=false)
+![erenzirekbilek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erenzirekbilek&theme=merko&show_icons=true&hide_border=false&layout=compact)
 <br>
 
 ## 🛠️ Tech Stack
