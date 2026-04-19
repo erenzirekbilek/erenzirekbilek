@@ -8,9 +8,6 @@
 ---
 
 ## 🚀 About Me
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erenzirekbilek&theme=dracula)](https://github.com/erenzirekbilek/github-readme-activity-graph)
-
 <div align="left">
 
 **Full Stack Software Engineer** with a strong focus on building scalable web applications and robust backend systems.
