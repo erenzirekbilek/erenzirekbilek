@@ -21,13 +21,6 @@ Committed to writing maintainable code, continuous learning, and delivering real
 
 <br>
 
-## 📊 GitHub Analytics
-
-![erenzirekbilek's Stats](https://github-readme-stats.vercel.app/api?username=erenzirekbilek&theme=merko&show_icons=true&hide_border=false&count_private=true)
-![erenzirekbilek's Streak](https://github-readme-streak-stats.herokuapp.com/?user=erenzirekbilek&theme=merko&hide_border=false)
-![erenzirekbilek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erenzirekbilek&theme=merko&show_icons=true&hide_border=false&layout=compact)
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
