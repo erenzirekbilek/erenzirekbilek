@@ -1,31 +1,140 @@
-# Eren Zirekbilek
-### Full Stack Software Engineer
-Experienced Full Stack Developer with expertise in building scalable web applications and robust backend systems. Proficient in React, Spring Boot, Node.js, and Python with a strong focus on delivering high-performance, maintainable solutions. Committed to writing clean code, optimizing system performance, and continuously learning new technologies.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;React+%7C+Spring+Boot+%7C+Node.js;Python+%7C+Docker+%7C+AI+Integration;Clean+Code+%7C+Scalable+Systems" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eren%20Zirekbilek&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=erenzirekbilek&color=blue&style=for-the-badge&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/erenzirekbilek?label=Followers&style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/erenzirekbilek?label=Stars&style=for-the-badge&color=yellow)
+
+</div>
+
 ---
-## 🛠️ Technical Skills
+
+## 🚀 About Me
+
+<div align="left">
+
+**Full Stack Software Engineer** with a strong focus on building scalable web applications and robust backend systems.
+
+Experienced in **React, Spring Boot, Node.js, and Python**, with a passion for clean architecture, high-performance APIs, and AI-integrated solutions. Currently working on an **AI-powered Dyslexia Early Detection System** that combines deep learning with multi-modal data analysis to support educators and therapists.
+
+Committed to writing maintainable code, continuous learning, and delivering real-world impact through technology.
+
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erenzirekbilek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics&ring=5BCDEC&fire=5BCDEC)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erenzirekbilek&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erenzirekbilek&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC)
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=erenzirekbilek&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true)
+
+</div>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
 ### Frontend
-React · HTML5 · CSS3 · JavaScript · jQuery · Responsive UI Design · State Management · API Integration
-### Backend
-Spring Boot · RESTful API Development · Node.js · Data Modeling · MySQL · MSSQL · JSON/XML Processing
-### Tools & Practices
-Git · Docker · JWT · WebSocket · Unit Testing · Agile Methodologies · Clean Code Principles
+<img src="https://skillicons.dev/icons?i=react,js,html,css,jquery,figma" />
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=spring,nodejs,python,mysql,docker,git" />
+<img src="https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+### AI / ML
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/-NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+
+### Practices & Tools
+<img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+<img src="https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/-Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/-Unit%20Testing-25A162?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
+</div>
+
+<br>
+
+## 📈 Coding Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erenzirekbilek&theme=tokyonight&hide_border=true&area=true&custom_title=Coding%20Activity)
+
+</div>
+
 ---
-## 🏆 Featured Projects
-### Dyslexia Early Detection System — AI-Powered Analysis Platform
-**Technologies:** React.js · Python (Flask/FastAPI) · TensorFlow · scikit-learn
-An intelligent platform designed for early dyslexia detection and risk assessment in children through multi-modal data analysis.
-- **Core Features:**
-  - Analyzes speech and writing samples to generate personalized risk scores
-  - Implements audio processing techniques (MFCC, pitch, energy, formants)
-  - Utilizes NLP methods for natural language processing and feature extraction
-  - Employs deep learning and machine learning models for risk score calculation
-  - Provides visualization dashboards and tailored intervention recommendations
-- **Impact:** Empowers educators and therapists with data-driven decision support tools, accelerating early intervention and optimizing manual evaluation processes
-- **Architecture:** Three-tier, open-source, cost-effective — **React.js (Frontend) → Flask/FastAPI (Backend) → TensorFlow/scikit-learn (ML Models)**
+
+## 🏆 Featured Project
+
+### 🧠 Dyslexia Early Detection System — AI-Powered Analysis Platform
+
+> **React.js · Python (Flask/FastAPI) · TensorFlow · scikit-learn**
+
+An intelligent platform for early dyslexia detection and risk assessment in children through multi-modal data analysis.
+
+- 🎙️ Analyzes **speech & writing samples** to generate personalized risk scores
+- 🔊 Implements audio processing techniques: **MFCC, pitch, energy, formants**
+- 📝 Utilizes **NLP methods** for natural language processing and feature extraction
+- 🤖 Employs **deep learning & ML models** for risk score calculation
+- 📊 Provides **visualization dashboards** and tailored intervention recommendations
+
+**Architecture:** `React.js (Frontend)` → `Flask/FastAPI (Backend)` → `TensorFlow/scikit-learn (ML Models)`
+
+**Impact:** Empowers educators and therapists with data-driven tools, accelerating early intervention and optimizing manual evaluation processes.
+
 ---
-## 📫 Contact
-- **Email:** [erenzirekbilek@hotmail.com](mailto:erenzirekbilek@hotmail.com)  
-- **LinkedIn:** [linkedin.com/in/erenzirekbilek](https://linkedin.com/in/erenzirekbilek)  
+
+## 🎯 Current Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML%20Integration-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Backend%20Architecture-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
 ---
-*Open to opportunities in full-stack development, backend engineering, and software architecture roles. Available for hybrid or remote work arrangements.*
- burayıda güncelle profesyonelce
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erenzirekbilek)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erenzirekbilek@hotmail.com)
+
+### 💼 Open to New Opportunities
+
+<img src="https://img.shields.io/badge/Available%20for-Full%20Stack%20%7C%20Backend%20%7C%20Remote-00C851?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 CLEAN CODE. SCALABLE SYSTEMS. REAL IMPACT.
+
+Every problem is an opportunity to build something better. Let's build it together! 🚀
+
+</div>
