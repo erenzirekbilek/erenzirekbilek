@@ -5,15 +5,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eren%20Zirekbilek&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
 </div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=erenzirekbilek&color=blue&style=for-the-badge&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/erenzirekbilek?label=Followers&style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/erenzirekbilek?label=Stars&style=for-the-badge&color=yellow)
-
-</div>
-
 ---
 
 ## 🚀 About Me
