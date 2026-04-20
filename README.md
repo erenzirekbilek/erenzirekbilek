@@ -58,20 +58,6 @@ Committed to writing maintainable code, continuous learning, and delivering real
 </div>
 
 ---
-
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erenzirekbilek&theme=tokyo-night&hide_border=true&area=true&area_color=00D4FF&color=00D4FF&line=7B2FFF&point=ffffff&custom_title=Coding%20Activity)
-
-</div>
-
----
-
 ## 🏆 Featured Project
 
 ### 🧠 Dyslexia Early Detection System — AI-Powered Analysis Platform
